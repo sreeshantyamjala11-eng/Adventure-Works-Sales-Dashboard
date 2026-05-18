@@ -61,12 +61,5 @@ This dashboard helps businesses:
 
 ---
 
-# Future Improvements
-- Add forecasting models
-- Implement customer churn analysis
-- Create advanced Power BI measures using DAX
-
----
-
 # Author
 Sreeshant Yamjala
